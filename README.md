@@ -13,7 +13,7 @@ Pre-requisites:
 • Android SDK 29 • Java v8 JDK and/or higher versions
 
 Creating a local copy of project
-1. Navigate to the repository https://github.com/MariaSkvortcova/ReferenceAndroid, click Clone or Download button to download the assignment as a project
+1. Navigate to the repository https://github.com/MariaSkvortcova/reference_android, click Clone or Download button to download the assignment as a project
 2. Copy GitHub URL displayed
 3. Launch terminal on macOS or command prompt on Windows PC.
 4. Navigate to the folder where project is to be saved locally by typing this command cd , for example
